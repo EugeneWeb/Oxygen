@@ -91,7 +91,7 @@
     min-height: 658px;
 
     background-color: #F6F8FA;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/header-bg.webp);
 }
 
 .header__title {
@@ -228,7 +228,7 @@
     width: 50%;
     
     background-color: #F6F8FA;
-    background-image: url(../img/features-img.jpg);
+    background-image: url(../img/features-img.webp);
     background-size: cover;
 }
 
